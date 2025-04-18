@@ -30,7 +30,6 @@
 </p>
 
 ---
-
 <h3 align="center">📘 Fun Stuff – Book Wisdoms</h3>
 
 <div class="book-takeaways">
@@ -54,6 +53,13 @@
       <p>“Small, smart choices + consistency + time = radical difference.”</p>
     </div>
   </div>
+
+  <div class="book-item">
+    <div class="quote">
+      <p><strong>The Millionaire Fastlane by MJ DeMarco</strong></p>
+      <p>“The goal of the fastlane is a disconnection of your time from income.”</p>
+    </div>
+  </div>
   
   <!-- Add more book items as necessary -->
 </div>
@@ -71,7 +77,10 @@
     width: 100%;
     height: 100%;
     opacity: 0;
-    display: none;
+    visibility: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     animation: fadeIn 1s forwards;
   }
 
@@ -98,23 +107,6 @@
     }
   }
 
-  /* Show each quote sequentially with a delay */
-  .book-item:nth-child(1) {
-    animation-delay: 0s;
-  }
-
-  .book-item:nth-child(2) {
-    animation-delay: 4s;
-  }
-
-  .book-item:nth-child(3) {
-    animation-delay: 8s;
-  }
-
-  .book-item:nth-child(4) {
-    animation-delay: 12s;
-  }
-
   /* Optional: Adjust for mobile devices */
   @media (max-width: 768px) {
     .book-takeaways {
@@ -128,10 +120,15 @@
   let currentItem = 0;
 
   function showNextItem() {
-    items[currentItem].style.display = 'block';
-    items[currentItem].style.animation = 'fadeIn 1s forwards';
+    // Hide the current item
+    items[currentItem].style.opacity = 0;
+    items[currentItem].style.visibility = 'hidden';
     
-    currentItem = (currentItem + 1) % items.length; // Loop back to the first item after the last one
+    // Show the next item
+    currentItem = (currentItem + 1) % items.length;
+    items[currentItem].style.opacity = 1;
+    items[currentItem].style.visibility = 'visible';
+    items[currentItem].style.animation = 'fadeIn 1s forwards'; // Reapply the fade-in animation
   }
 
   setInterval(showNextItem, 4000); // Change quote every 4 seconds

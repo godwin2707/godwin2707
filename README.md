@@ -31,31 +31,14 @@
 
 ---
 
-### 📚 Books I’ve Read & Recommend
+### 📚 Books I’ve Read
 
 <p align="center">
-  <img src="https://m.media-amazon.com/images/I/81jyo7c5IAL._AC_UF1000,1000_QL80_.jpg" width="120" alt="Ikigai"/>
-  <img src="https://m.media-amazon.com/images/I/71X4G3xoGFL._AC_UF1000,1000_QL80_.jpg" width="120" alt="Rich Dad Poor Dad"/>
-  <img src="https://m.media-amazon.com/images/I/61-cFXzrw-L._AC_UF1000,1000_QL80_.jpg" width="120" alt="The Personal MBA"/>
-  <img src="https://m.media-amazon.com/images/I/71HMyqG6MRL._AC_UF1000,1000_QL80_.jpg" width="120" alt="101 Essays That Will Change the Way You Think"/>
+  <strong>Ikigai</strong> • 
+  <strong>Rich Dad Poor Dad</strong> • 
+  <strong>The Personal MBA</strong> • 
+  <strong>101 Essays That Will Change the Way You Think</strong>
 </p>
-
-<p align="center">
-  📘 <strong>Ikigai</strong> • 💸 <strong>Rich Dad Poor Dad</strong> • 🧠 <strong>The Personal MBA</strong> • 📝 <strong>101 Essays That Will Change the Way You Think</strong>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godwingerald&show_icons=true&theme=radical&hide=prs" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=godwingerald&theme=radical" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godwingerald&layout=compact&theme=radical&hide=html" width="40%"/>
-</div>
 
 ---
 

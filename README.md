@@ -31,101 +31,104 @@
 
 ---
 
-<h2 align="center">📘 Fun Stuff – Book Wisdoms</h2>
+<h3 align="center">📘 Fun Stuff – Book Wisdoms</h3>
+
+<div class="book-takeaways">
+  <div class="book-item">
+    <div class="quote">
+      <p><strong>Think Straight by Darius Foroux</strong></p>
+      <p>“Change your thought, change your life.”</p>
+    </div>
+  </div>
+  
+  <div class="book-item">
+    <div class="quote">
+      <p><strong>48 Laws of Power by Robert Greene</strong></p>
+      <p>“Never outshine the master.”</p>
+    </div>
+  </div>
+  
+  <div class="book-item">
+    <div class="quote">
+      <p><strong>The Compound Effect by Darren Hardy</strong></p>
+      <p>“Small, smart choices + consistency + time = radical difference.”</p>
+    </div>
+  </div>
+  
+  <!-- Add more book items as necessary -->
+</div>
 
 <style>
-@keyframes fadeSlide {
-  0% { opacity: 0; transform: translateY(20px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-.wisdom-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
-}
-.wisdom-card {
-  width: 250px;
-  border-radius: 12px;
-  padding: 1rem;
-  background: #fefefe;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.12);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  animation: fadeSlide 0.6s ease forwards;
-  opacity: 0;
-}
-.wisdom-card:hover {
-  transform: translateY(-5px) scale(1.02);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
-}
-.wisdom-title {
-  font-weight: bold;
-  margin-bottom: 0.5rem;
-}
-.wisdom-quote {
-  font-style: italic;
-  color: #555;
-}
-</style>
+  .book-takeaways {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    animation: fadeInUp 1s ease-out;
+  }
 
-<div class="wisdom-grid">
-  <div class="wisdom-card" style="animation-delay: 0.1s">
-    <div class="wisdom-title">🧠 Think Straight</div>
-    <div class="wisdom-quote">“Change your thought, change your life.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 0.2s">
-    <div class="wisdom-title">🏛️ 48 Laws of Power</div>
-    <div class="wisdom-quote">“Never outshine the master.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 0.3s">
-    <div class="wisdom-title">🔁 The Compound Effect</div>
-    <div class="wisdom-quote">“Small, smart choices + consistency + time = radical difference.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 0.4s">
-    <div class="wisdom-title">📈 The Millionaire Fastlane</div>
-    <div class="wisdom-quote">“The goal of the fastlane is a disconnection of your time from income.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 0.5s">
-    <div class="wisdom-title">💬 How to Talk to Anyone</div>
-    <div class="wisdom-quote">“Only 50 words make the difference between a rich, creative vocabulary and an average one.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 0.6s">
-    <div class="wisdom-title">💎 The Wealth Money Can’t Buy</div>
-    <div class="wisdom-quote">“Winning within is more important than winning in the world.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 0.7s">
-    <div class="wisdom-title">💥 Atomic Habits</div>
-    <div class="wisdom-quote">“You do not rise to the level of your goals. You fall to the level of your systems.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 0.8s">
-    <div class="wisdom-title">🧘 Mindset</div>
-    <div class="wisdom-quote">“I divide the world into learners and non-learners.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 0.9s">
-    <div class="wisdom-title">🧠 Influence</div>
-    <div class="wisdom-quote">“Reciprocation is one of the most powerful tools of influence.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 1s">
-    <div class="wisdom-title">🧲 Hooked</div>
-    <div class="wisdom-quote">“To build habit-forming products, understand user triggers deeply.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 1.1s">
-    <div class="wisdom-title">💡 Think Again</div>
-    <div class="wisdom-quote">“Confidence + humility = sweet spot of rethinking.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 1.2s">
-    <div class="wisdom-title">🧘‍♂️ Shaolin</div>
-    <div class="wisdom-quote">“Accept the moment without judging it.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 1.3s">
-    <div class="wisdom-title">💰 Psychology of Money</div>
-    <div class="wisdom-quote">“Wealth is what you don’t see.”</div>
-  </div>
-  <div class="wisdom-card" style="animation-delay: 1.4s">
-    <div class="wisdom-title">🔍 The Art of Thinking Clearly</div>
-    <div class="wisdom-quote">“Confirmation bias is the mother of all misconceptions.”</div>
-  </div>
-</div>
+  .book-item {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    opacity: 0;
+    animation: slideUp 1s ease-out forwards;
+  }
+
+  .quote {
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+  }
+
+  .quote p {
+    margin: 10px 0;
+  }
+
+  .quote strong {
+    font-size: 18px;
+    color: #2C3E50;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideUp {
+    from {
+      transform: translateY(30px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  .book-item:nth-child(1) {
+    animation-delay: 0.2s;
+  }
+
+  .book-item:nth-child(2) {
+    animation-delay: 0.4s;
+  }
+
+  .book-item:nth-child(3) {
+    animation-delay: 0.6s;
+  }
+
+  /* Adjust for mobile devices */
+  @media (max-width: 768px) {
+    .book-takeaways {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
 
 
 ---

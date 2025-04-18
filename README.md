@@ -30,10 +30,15 @@
 </p>
 
 ---
-### 📘 Fun Stuff – Book Wisdoms
+### 📘 Book Wisdoms
+
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Change+your+thought,+change+your+life.-+Think+Straight+by+Darius+Foroux;Never+outshine+the+master.-+48+Laws+of+Power+by+Robert+Greene;Small,+smart+choices+%2B+consistency+%2B+time+%3D+radical+difference.-+The+Compound+Effect+by+Darren+Hardy;The+goal+of+the+fastlane+is+a+disconnection+of+your+time+from+income.-+The+Millionaire+Fastlane+by+MJ+DeMarco;Only+50+words+make+the+difference+between+a+rich,+creative+vocabulary+and+an+average+one.-+How+to+Talk+to+Anyone+by+Leil+Lowndes;Winning+within+is+more+important+than+winning+in+the+world.-+The+Wealth+Money+Can't+Buy+by+Robin+Sharma;You+do+not+rise+to+the+level+of+your+goals.+You+fall+to+the+level+of+your+systems.-+Atomic+Habits+by+James+Clear;I+divide+the+world+into+learners+and+non-learners.-+Mindset+by+Carol+Dweck;Reciprocation+is+one+of+the+most+powerful+tools+of+influence.-+Influence+by+Robert+Cialdini;To+build+habit-forming+products,+understand+user+triggers+deeply.-+Hooked+by+Nir+Eyal;Confidence+%2B+humility+%3D+sweet+spot+of+rethinking.-+Think+Again+by+Adam+Grant;Accept+the+moment+without+judging+it.-+Shaolin%3A+Win+Without+Fights;Wealth+is+what+you+don’t+see.-+Psychology+of+Money+by+Morgan+Housel;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Change+your+thought,+change+your+life.+Think+Straight+by+Darius+Foroux;Never+outshine+the+master.+48+Laws+of+Power+by+Robert+Greene;Small,+smart+choices+%2B+consistency+%2B+time+%3D+radical+difference.+The+Compound+Effect+by+Darren+Hardy;The+goal+of+the+fastlane+is+a+disconnection+of+your+time+from+income.+The+Millionaire+Fastlane+by+MJ+DeMarco;Only+50+words+make+the+difference+between+a+rich,+creative+vocabulary+and+an+average+one.+How+to+Talk+to+Anyone+by+Leil+Lowndes;Winning+within+is+more+important+than+winning+in+the+world.+The+Wealth+Money+Can't+Buy+by+Robin+Sharma;You+do+not+rise+to+the+level+of+your+goals.+You+fall+to+the+level+of+your+systems.-+Atomic+Habits+by+James+Clear;I+divide+the+world+into+learners+and+non-learners.+Mindset+by+Carol+Dweck;Reciprocation+is+one+of+the+most+powerful+tools+of+influence.-+Influence+by+Robert+Cialdini;To+build+habit-forming+products,+understand+user+triggers+deeply.-+Hooked+by+Nir+Eyal;Confidence+%2B+humility+%3D+sweet+spot+of+rethinking.-+Think+Again+by+Adam+Grant;Accept+the+moment+without+judging+it.-+Shaolin%3A+Win+Without+Fights;Wealth+is+what+you+don’t+see.+Psychology+of+Money+by+Morgan+Housel;Confirmation+bias+is+the+mother+of+all+misconceptions.-+The+Art+of+Thinking+Clearly" alt="Typing SVG" />
+</p>
+
+
 
 
 ---

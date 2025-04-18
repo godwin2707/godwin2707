@@ -60,25 +60,24 @@
 
 <style>
   .book-takeaways {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    animation: fadeInUp 1s ease-out;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: 200px; /* Adjust the height to fit your content */
   }
 
   .book-item {
-    background-color: #f4f4f4;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    position: absolute;
+    width: 100%;
+    height: 100%;
     opacity: 0;
-    animation: slideUp 1s ease-out forwards;
+    display: none;
+    animation: fadeIn 1s forwards;
   }
 
   .quote {
     font-size: 16px;
     color: #333;
-    text-align: center;
   }
 
   .quote p {
@@ -90,7 +89,7 @@
     color: #2C3E50;
   }
 
-  @keyframes fadeInUp {
+  @keyframes fadeIn {
     from {
       opacity: 0;
     }
@@ -99,36 +98,44 @@
     }
   }
 
-  @keyframes slideUp {
-    from {
-      transform: translateY(30px);
-      opacity: 0;
-    }
-    to {
-      transform: translateY(0);
-      opacity: 1;
-    }
-  }
-
+  /* Show each quote sequentially with a delay */
   .book-item:nth-child(1) {
-    animation-delay: 0.2s;
+    animation-delay: 0s;
   }
 
   .book-item:nth-child(2) {
-    animation-delay: 0.4s;
+    animation-delay: 4s;
   }
 
   .book-item:nth-child(3) {
-    animation-delay: 0.6s;
+    animation-delay: 8s;
   }
 
-  /* Adjust for mobile devices */
+  .book-item:nth-child(4) {
+    animation-delay: 12s;
+  }
+
+  /* Optional: Adjust for mobile devices */
   @media (max-width: 768px) {
     .book-takeaways {
-      grid-template-columns: 1fr;
+      height: auto;
     }
   }
 </style>
+
+<script>
+  const items = document.querySelectorAll('.book-item');
+  let currentItem = 0;
+
+  function showNextItem() {
+    items[currentItem].style.display = 'block';
+    items[currentItem].style.animation = 'fadeIn 1s forwards';
+    
+    currentItem = (currentItem + 1) % items.length; // Loop back to the first item after the last one
+  }
+
+  setInterval(showNextItem, 4000); // Change quote every 4 seconds
+</script>
 
 
 ---

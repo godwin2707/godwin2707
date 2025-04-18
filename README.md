@@ -33,8 +33,9 @@
 ### 📘 Book Wisdoms
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&center=true&vCenter=true&width=600&lines=Change+Your+Thought%2C+Change+Your+Life%2E;Small%2C+Smart+Choices%2C+Consistency%2C+Time+%3D+Radical+Difference%2E;You+Do+Not+Rise+To+The+Level+Of+Your+Goals%2E;The+Goal+Of+The+Fastlane+Is+Disconnection+Of+Time+From+Income%2E;Never+Outshine+The+Master%2E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&center=true&vCenter=true&width=600&lines=Change+Your+Thought%2C+Change+Your+Life%2E;Small%2C+Smart+Choices%2C+Consistency%2C+Time+%3D+Radical+Difference%2E;Rise+to+the+Level+of+Your+Systems%2E;The+Fastlane+Disconnection+of+Time+From+Income%2E;Never+Outshine+The+Master%2E" alt="Typing SVG" />
 </p>
+
 
 
 

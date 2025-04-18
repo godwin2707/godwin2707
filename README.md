@@ -33,13 +33,59 @@
 
 ### 📚 Books I’ve Read
 
+
+
+#### 🔥 Personal Development
 <p align="center">
   <img src="https://img.shields.io/badge/Ikigai-%23f4a261?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rich%20Dad%20Poor%20Dad-%236a994e?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/The%20Personal%20MBA-%234a4e69?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/101%20Essays%20That%20Will%20Change%20The%20Way%20You%20Think-%236d597a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20Compound%20Effect-%23638b6e?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20Millionaire%20Fastlane-%23c7a38a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Think%20Like%20a%20Monk-%239b7a7d?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20Miracle%20Morning-%23f9a825?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Good%20Energy-%23c96f7c?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Atomic%20Habits-%239b9b9b?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20Courage%20to%20Be%20Disliked-%238b4e88?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus%20on%20What%20Matters-%236fc5e5?style=for-the-badge&logoColor=white"/>
 </p>
 
+#### 💰 Financial Success & Wealth
+<p align="center">
+  <img src="https://img.shields.io/badge/Rich%20Dad%20Poor%20Dad-%236a994e?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20Wealth%20Money%20Can't%20Buy-%23415a6e?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20Richest%20Man%20in%20Babylon-%2380806d?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Think%20and%20Grow%20Rich-%239dc8d8?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%204%20Hour%20Work%20Week-%2361b4af?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Manifest-%237e1b68?style=for-the-badge&logoColor=white"/>
+</p>
+
+#### 🧠 Psychology & Human Behavior
+<p align="center">
+  <img src="https://img.shields.io/badge/The%20Laws%20of%20Human%20Nature-%23b973b3?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Influence-%23687dbf?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Negotiation-%23e56942?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20Art%20of%20Mind%20Reading-%23fc7a9f?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%2048%20Laws%20of%20Power-%236c4f71?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Good%20Vibes%20Good%20Life-%2395c44f?style=for-the-badge&logoColor=white"/>
+</p>
+
+#### 📖 Philosophy & Wisdom
+<p align="center">
+  <img src="https://img.shields.io/badge/The%20Daily%20Stoic-%23636363?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20Art%20of%20Being%20Alone-%2399b6bd?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20Man's%20Search%20For%20Meaning-%238c3a59?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/As%20a%20Man%20Thinketh-%23ad8b61?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20Art%20of%20Thinking%20Clearly-%23f1d263?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Talk%20Like%20a%20TED-%23f68d59?style=for-the-badge&logoColor=white"/>
+</p>
+
+#### 🧘‍♂️ Mindset & Clarity
+<p align="center">
+  <img src="https://img.shields.io/badge/Tiny%20Buddha-%236d9ecf?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elastic%20Habits-%234a3d46?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Atomic%20Habits-%239b9b9b?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/How%20to%20Talk%20to%20Anyone-%23999e8b?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Think%20Again-%23479f87?style=for-the-badge&logoColor=white"/>
+</p>
 
 ---
 

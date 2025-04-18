@@ -32,8 +32,9 @@
 ---
 ### 📘 Book Wisdoms
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Small+choices%2C+consistency%2C+time+%3D+big+results.;Understanding+user+triggers+builds+habit-forming+products.;Win+within+yourself+before+seeking+outside+victories.;You+are+what+you+repeatedly+do.;Leverage+your+networks+for+success." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=300&lines=Small+choices+bring+big+results.;Understand+triggers+to+build+habits.;Win+within+first.;You+are+what+you+do.;Leverage+your+networks." alt="Typing SVG" />
 </p>
+
 
 
 

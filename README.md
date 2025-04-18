@@ -32,7 +32,7 @@
 ---
 ### 📘 Book Wisdoms
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=300&lines=Small+choices=+big+results.;Understand+triggers+to+build+habits.;Win+within+first.;You+are+what+you+do.;Leverage+your+networks." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=300&lines=Small+choices=++big+results.;Understand+triggers+to+build+habits.;Win+within+first.;You+are+what+you+do.;Leverage+your+networks." alt="Typing SVG" />
 </p>
 
 

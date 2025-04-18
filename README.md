@@ -71,11 +71,56 @@
 
 ---
 
-### 💡 Fun Stuff
+## 📘 Fun Stuff – Book Wisdoms
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Book+Lover;Always+Learning+Something+New!" alt="Typing SVG" />
-</p>
+Here are some quick takeaways from books that have shaped the way I think:
+
+### 🧠 Think Straight by Darius Foroux
+> *“Change your thought, change your life.”*
+
+### 🏛️ 48 Laws of Power by Robert Greene
+> *“Never outshine the master.”*
+
+### 🔁 The Compound Effect by Darren Hardy
+> *“Small, smart choices + consistency + time = radical difference.”*
+
+### 📈 The Millionaire Fastlane by MJ DeMarco
+> *“The goal of the fastlane is a disconnection of your time from income.”*
+
+### 💬 How to Talk to Anyone by Leil Lowndes
+> *“Only 50 words make the difference between a rich, creative vocabulary and an average one.”*
+
+### 💎 The Wealth Money Can’t Buy by Robin Sharma
+> *“Winning within is more important than winning in the world.”*
+
+### 💥 Atomic Habits by James Clear
+> *“You do not rise to the level of your goals. You fall to the level of your systems.”*
+
+### 🧘 Mindset by Carol Dweck
+> *“I divide the world into learners and non-learners.”*
+
+### 🧠 Influence by Robert Cialdini
+> *“Reciprocation is one of the most powerful tools of influence.”*
+
+### 🧲 Hooked by Nir Eyal
+> *“To build habit-forming products, understand user triggers deeply.”*
+
+### 💡 Think Again by Adam Grant
+> *“Confidence + humility = sweet spot of rethinking.”*
+
+### 🧘‍♂️ Shaolin: Win Without Fights
+> *“Accept the moment without judging it.”*
+
+### 💰 Psychology of Money by Morgan Housel
+> *“Wealth is what you don’t see.”*
+
+### 🔍 The Art of Thinking Clearly
+> *“Confirmation bias is the mother of all misconceptions.”*
+
+---
+
+Let me know if you'd like a graphical version of this too (like a cool card layout with icons or emojis) or even an HTML/CSS version for a personal site. Want me to integrate this into your GitHub README?
+
 
 ---
 

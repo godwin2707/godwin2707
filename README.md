@@ -34,11 +34,12 @@
 ### 📚 Books I’ve Read
 
 <p align="center">
-  <strong>Ikigai</strong> • 
-  <strong>Rich Dad Poor Dad</strong> • 
-  <strong>The Personal MBA</strong> • 
-  <strong>101 Essays That Will Change the Way You Think</strong>
+  <img src="https://img.shields.io/badge/Ikigai-%23f4a261?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rich%20Dad%20Poor%20Dad-%236a994e?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20Personal%20MBA-%234a4e69?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/101%20Essays%20That%20Will%20Change%20The%20Way%20You%20Think-%236d597a?style=for-the-badge&logoColor=white"/>
 </p>
+
 
 ---
 

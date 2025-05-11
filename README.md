@@ -44,14 +44,11 @@
 
 ---
 # 📊 GitHub Stats:
-<c>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=godwin2707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=godwin2707&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=godwin2707&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<\c>
 ### 🤝 Let’s Connect
 
 <p align="center">

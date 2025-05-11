@@ -27,7 +27,10 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=godwin2707&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=godwin2707&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ### 📘 Book Wisdoms
@@ -46,9 +49,7 @@
 
 
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=godwin2707&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
 
 
 ### 🤝 Let’s Connect

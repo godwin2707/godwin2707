@@ -43,12 +43,12 @@
 
 
 ---
-# 📊 Languages Used: 
-<p align="center">
+
+
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=godwin2707&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
+---
 
 
 ### 🤝 Let’s Connect

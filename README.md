@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Godwin Gerald</h1>
-<h3 align="center">Aspiring Data Scientist from Coimbatore 📊</h3>
+<h3 align="center">Aspiring Data Scientist from Coimbatore </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Data GIF" />
 </p>
 
-<p align="center"><em>I speak Python, SQL, and occasionally English 😄</em></p>
+<p align="center"><em>Python and SQL are my native tongues—English is just a bonus</em></p>
 
 ---
 

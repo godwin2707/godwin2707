@@ -16,11 +16,6 @@
 
 ---
 
-### 🗡️ Red teaming
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/RenaldGodwin07.png" alt="Your Image Badge" />
-</p>
-
 ### 🛠️ Languages and Tools
 
 <p align="center">

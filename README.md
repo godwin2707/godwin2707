@@ -18,7 +18,7 @@
 
 ### 🗡️ Red teaming
 <p align="center">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6131672" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/RenaldGodwin07.png" alt="Your Image Badge" />
 </p>
 
 ### 🛠️ Languages and Tools

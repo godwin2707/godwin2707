@@ -16,6 +16,10 @@
 
 ---
 
+### 🗡️ Red teaming
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6131672" style='border:none;'></iframe>
+
+
 ### 🛠️ Languages and Tools
 
 <p align="center">

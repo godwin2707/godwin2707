@@ -1,20 +1,4 @@
-<h1 align="center">Hi 👋, I'm Godwin Gerald</h1>
-<h3 align="center">Aspiring Data Scientist from Coimbatore </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Data GIF" />
-</p>
-
-<p align="center"><em>Python and SQL are my native tongues—English is just a bonus</em></p>
-
----
-
-- 🌱 I’m currently diving deep into **Data Science**
-- 📚 I love reading thought-provoking books
-- 💬 Ask me about **Python, Machine Learning, Data Visualization, and Statistics**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/godwin-gerald/)
-
----
 
 ### 🛠️ Languages and Tools
 

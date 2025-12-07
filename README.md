@@ -1,5 +1,4 @@
-### Friendly neighborhood hacker (the legal kind)
-<h1 align="center">👋 Hi, I'm Godwin</h1>
+### Friendly neighborhood hacker (the legal kind) 
 
 Cybersecurity learner with a focus on penetration testing.  
 I break to understand, learn to improve, and secure what I break.

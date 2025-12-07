@@ -1,24 +1,17 @@
+### Friendly neighborhood hacker (the legal kind)
+<h1 align="center">👋 Hi, I'm Godwin</h1>
 
+Cybersecurity learner with a focus on penetration testing.  
+I break to understand, learn to improve, and secure what I break.
 
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godwin2707&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+**This space is where I document my journey through security,  
+from small ideas to useful projects.**
 
 ---
-### 📘 Book Wisdoms
+
+<p align="center"><i>Learning one vulnerability at a time.</i></p>
+
+### Book Wisdoms
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=300&lines=Small+choices+matter.;Habits+shape+us.;Inner+growth+first.;Your+actions+define+you.;Build+connections." alt="Typing SVG" />
 </p>
@@ -37,7 +30,7 @@
 
 
 
-### 🤝 Let’s Connect
+### Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/godwin-gerald/" target="blank">

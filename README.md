@@ -8,8 +8,6 @@ from small ideas to useful projects.**
 
 ---
 
-<p align="center"><i>Learning one vulnerability at a time.</i></p>
-
 ### Book Wisdoms
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=300&lines=Small+choices+matter.;Habits+shape+us.;Inner+growth+first.;Your+actions+define+you.;Build+connections." alt="Typing SVG" />
